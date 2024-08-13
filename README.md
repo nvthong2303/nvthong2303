@@ -29,9 +29,9 @@
 <style>
 .separator {
     border-left: 1px solid black;
-    height: 44px;
+    height: 50px;
     display: inline-block;
-    margin: 0 10px 25px;
+    margin: 0 6px 25px 4px;
     vertical-align: middle;
 }
 </style>
