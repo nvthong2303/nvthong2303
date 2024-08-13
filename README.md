@@ -7,23 +7,23 @@
 
 - 👯 I’m looking to collaborate on **Cloud SaaS / Software**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nvthong2303](https://github.com/nvthong2303)
+- 👨‍💻 All of my projects are available at [My repositories](https://github.com/nvthong2303)
 
-- 📝 I regularly write articles on [https://techie-guy.thong2303.io.vn/](https://techie-guy.thong2303.io.vn/)
+- 📝 I regularly write articles on [My blog](https://techie-guy.thong2303.io.vn/)
 
 - 💬 Ask me about **JS, TS, Python and more**
 
 - 📫 How to reach me **nvthong2303@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/BABVBFQABQULDwkDAwMECwIGVFYCClUAU1FfBgb946](https://www.topcv.vn/xem-cv/BABVBFQABQULDwkDAwMECwIGVFYCClUAU1FfBgb946)
+- 📄 Know about my experiences [My CV](https://www.topcv.vn/xem-cv/BABVBFQABQULDwkDAwMECwIGVFYCClUAU1FfBgb946)
 
 - ⚡ Fun fact **I think of myself as a deeply humorous but quiet person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nvthong2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nvthong2303" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nvthong2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nvthong2303" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@thong3233f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thong3233f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nvthong2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nvthong2303" height="30" width="40" /></a>
+<a href="https://fb.com/nvthong2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nvthong2303" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thong3233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thong3233" height="30" width="40" /></a>
 <a href="https://discord.gg/1094149208476491846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thong2303" height="30" width="40" /></a>
 </p>
 
